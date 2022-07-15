@@ -1,0 +1,180 @@
+body {
+    margin: 0px;
+    background-color: #C4C4C4;
+    width: 100%;
+}
+.first {
+    background-color: #E6E6E6;
+    height: 200px;
+    width: auto;
+    margin: 50px;
+}
+.first_cube1 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    float: left;
+}
+.first_cube1_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.second_cube1 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    float: right;
+}
+.second_cube1_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.second {
+    background-color: #E6E6E6;
+    height: 200px;
+    width: auto;
+    margin: 50px;
+    display: flex;
+
+}
+.first_cube2 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    float: left;
+}
+.first_cube2_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.second_cube2 {
+    width: 100px;
+    height: 100px;
+    background-color: #FC8F8F;
+    float: right;
+    margin-left: 879px;
+}
+.second_cube2_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.three_cube2 {
+    width: 100px;
+    height: 100px;
+    background-color: #FC8F8F;
+    float: right;
+    margin-left: 15px;
+}
+.three_cube2_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.four_cube2 {
+    width: 100px;
+    height: 100px;
+    background-color: #FC8F8F;
+    float: right;
+    margin-left: 15px;
+}
+.four_cube2_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.five_cube2 {
+    width: 100px;
+    height: 100px;
+    background-color: #FC8F8F;
+    float: right;
+    margin-left: 15px;
+}
+.five_cube2_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.three {
+    background-color: #E6E6E6;
+    height: 200px;
+    width: auto;
+    margin: 50px;
+    display: flex;
+
+}
+.first_cube3 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    float: left;
+}
+.first_cube3_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.second_cube3 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    float: left;
+    margin-left: 15px;
+}
+.second_cube3_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.three_cube3 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    float: right;
+    margin-left: 694px;
+}
+.three_cube3_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.four_cube3 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    float: right;
+    margin-left: 15px;
+}
+.four_cube3_text {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
