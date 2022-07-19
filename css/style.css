@@ -5,15 +5,17 @@ body {
 }
 .first {
     background-color: #E6E6E6;
-    height: 200px;
+    padding:  0px;
     width: auto;
     margin: 50px;
+    display: inline-block;
 }
 .first_cube1 {
     width: 200px;
     height: 200px;
     background-color: #FC8F8F;
     float: left;
+    margin: 0px 1000px 0px 0px;
 }
 .first_cube1_text {
     font-family: 'Roboto';
@@ -21,12 +23,15 @@ body {
     font-size: 64px;
     text-align: center;
     color: #FFFFFF;
+    margin: 0px;
+    padding: 65px;
 }
 .second_cube1 {
     width: 200px;
     height: 200px;
     background-color: #FC8F8F;
     float: right;
+
 }
 .second_cube1_text {
     font-family: 'Roboto';
@@ -36,19 +41,21 @@ body {
     color: #FFFFFF;
 }
 
+
 .second {
     background-color: #E6E6E6;
-    height: 200px;
+    padding: 0px;
     width: auto;
     margin: 50px;
-    display: flex;
-
+    display: inline-block;
 }
 .first_cube2 {
     width: 200px;
     height: 200px;
     background-color: #FC8F8F;
     float: left;
+    margin: 0px 755px 0px 0px;
+
 }
 .first_cube2_text {
     font-family: 'Roboto';
@@ -61,8 +68,7 @@ body {
     width: 100px;
     height: 100px;
     background-color: #FC8F8F;
-    float: right;
-    margin-left: 879px;
+    float: left;
 }
 .second_cube2_text {
     font-family: 'Roboto';
@@ -75,7 +81,7 @@ body {
     width: 100px;
     height: 100px;
     background-color: #FC8F8F;
-    float: right;
+    float: left;
     margin-left: 15px;
 }
 .three_cube2_text {
@@ -89,7 +95,7 @@ body {
     width: 100px;
     height: 100px;
     background-color: #FC8F8F;
-    float: right;
+    float: left;
     margin-left: 15px;
 }
 .four_cube2_text {
@@ -116,17 +122,17 @@ body {
 
 .three {
     background-color: #E6E6E6;
-    height: 200px;
+    padding: 0px;
     width: auto;
     margin: 50px;
-    display: flex;
-
+    display: inline-block;
 }
 .first_cube3 {
     width: 200px;
     height: 200px;
     background-color: #FC8F8F;
     float: left;
+    margin-right: 15px;
 }
 .first_cube3_text {
     font-family: 'Roboto';
@@ -140,7 +146,6 @@ body {
     height: 200px;
     background-color: #FC8F8F;
     float: left;
-    margin-left: 15px;
 }
 .second_cube3_text {
     font-family: 'Roboto';
@@ -154,8 +159,8 @@ body {
     width: 200px;
     height: 200px;
     background-color: #FC8F8F;
-    float: right;
-    margin-left: 694px;
+    float: left;
+    margin-left: 570px;
 }
 .three_cube3_text {
     font-family: 'Roboto';
