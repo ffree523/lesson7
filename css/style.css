@@ -64,11 +64,15 @@ body {
     text-align: center;
     color: #FFFFFF;
 }
+.small2 {
+    float: right;
+    display: inline-block;
+}
 .second_cube2 {
     width: 100px;
     height: 100px;
     background-color: #FC8F8F;
-    float: left;
+
 }
 .second_cube2_text {
     font-family: 'Roboto';
@@ -81,7 +85,7 @@ body {
     width: 100px;
     height: 100px;
     background-color: #FC8F8F;
-    float: left;
+
     margin-left: 15px;
 }
 .three_cube2_text {
@@ -95,7 +99,7 @@ body {
     width: 100px;
     height: 100px;
     background-color: #FC8F8F;
-    float: left;
+
     margin-left: 15px;
 }
 .four_cube2_text {
@@ -109,7 +113,7 @@ body {
     width: 100px;
     height: 100px;
     background-color: #FC8F8F;
-    float: right;
+
     margin-left: 15px;
 }
 .five_cube2_text {
